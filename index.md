@@ -4,8 +4,7 @@ I am currently a *prospective M.S. student* (***supervised by Prof. Yu Qiao***) 
 ---  
 
 ## Basic Info
-Name: **Mouxiao Huang（黄谋潇）**  
-Gender: Male  
+Name: **Mouxiao Huang（黄谋潇）**♂  
 Born: Feb 14, 1997  
 Address: Shenzhen, China  
 E-mail: mx.huang@siat.ac.cn  
