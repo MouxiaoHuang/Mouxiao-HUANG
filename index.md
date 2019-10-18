@@ -4,7 +4,7 @@ Gender: Male
 Born: Feb 14, 1997  
 Address: Shenzhen, China  
 E-mail: mx.huang@siat.ac.cn  
-        auneohuang@mail.scut.edu.cn  
+        &ensp;auneohuang@mail.scut.edu.cn  
         neohuang469@gmail.com  
 
 ---  
