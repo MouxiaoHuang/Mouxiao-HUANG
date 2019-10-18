@@ -1,10 +1,11 @@
 # **Brief Introduction**
-I am currently a *prospective M.S. student* (***supervised by Prof. Yu Qiao***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese of Sciences (CAS) Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
+I am currently a **prospective M.S. student** (***supervised by Prof. Yu Qiao***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese of Sciences (CAS) Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
 
 ---  
 
 ## Basic Info
-Name: **Mouxiao Huang（黄谋潇）**♂  
+Name: **Mouxiao Huang（黄谋潇）**  
+Gender: Male
 Born: Feb 14, 1997  
 Address: Shenzhen, China  
 E-mail: mx.huang@siat.ac.cn  
@@ -14,9 +15,9 @@ E-mail: mx.huang@siat.ac.cn
 ---  
 
 ## Research Interest
-My current research interest includes:  
+**My current research interest includes:  
 · Computer Vision (3D Reconstruction)  
-· Deep Learning and Machine Learning in the field of Computer Vision  
+· Deep Learning and Machine Learning  **
   
 My previous research interest include:  
 · Traditional image processing  
@@ -31,4 +32,6 @@ My previous research interest include:
 
 ·&ensp;*2015.09 ~ 2016.09* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
-&ensp;&ensp;&ensp;&ensp;For reasons of personal interest, I changed my major to Automation through professional interview  
+&ensp;&ensp;&ensp;&ensp;For personal interest, I changed my major to Automation through professional interview  
+
+---
