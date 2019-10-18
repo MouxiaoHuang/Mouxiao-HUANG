@@ -3,7 +3,7 @@ I am currently a **prospective M.S. student** (***supervised by Prof. Yu Qiao***
 
 ---  
 
-## Basic Info
+## **Basic Info**
 Name: **Mouxiao Huang（黄谋潇）**  
 Gender: Male
 Born: Feb 14, 1997  
@@ -14,7 +14,7 @@ E-mail: mx.huang@siat.ac.cn
 
 ---  
 
-## Research Interest
+## **Research Interest**
 **My current research interest includes:  
 · Computer Vision (3D Reconstruction)  
 · Deep Learning and Machine Learning  **
@@ -25,7 +25,7 @@ My previous research interest include:
 
 ---  
 
-## Education Background
+## **Education Background**
 ·&ensp;*2016.09 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun, 2020*    
