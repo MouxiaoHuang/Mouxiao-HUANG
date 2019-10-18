@@ -11,5 +11,12 @@ E-mail: mx.huang@siat.ac.cn
 
 # Research Interest
 My current research interest includes:  
- · Computer Vision (3D Reconstruction)  
- · Deep Learning and Machine Learning in the field of Computer Vision  
+· Computer Vision (3D Reconstruction)  
+· Deep Learning and Machine Learning in the field of Computer Vision  
+  
+My previous research interest include:  
+· Traditional image processing  
+· Visible Light Communication and its applications  
+
+---  
+
