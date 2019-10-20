@@ -40,4 +40,5 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ## **Publications**
 > **·**&ensp; **Huang M**, Guan W, Fan Z, et al. Improved target signal source tracking and extraction method based on outdoor visible light communication using a cam-shift algorithm and kalman filter\[J]. Sensors, 2018, 18(12): 4173.  
-**·**&ensp; Guan W, Chen X, **Huang M**, et al. High-Speed Robust Dynamic Positioning and Tracking Method Based on Visual Visible Light Communication Using Optical Flow Detection and Bayesian Forecast\[J]. IEEE Photonics Journal, PP(99):1-1.  
+
+> **·**&ensp; Guan W, Chen X, **Huang M**, et al. High-Speed Robust Dynamic Positioning and Tracking Method Based on Visual Visible Light Communication Using Optical Flow Detection and Bayesian Forecast\[J]. IEEE Photonics Journal, PP(99):1-1.  
