@@ -12,7 +12,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ## **Research Interest**
 **My current research interest includes:**  
 **·**&ensp; Computer Vision (3D Reconstruction)  
-·&ensp; Deep Learning and Machine Learning  
+**·**&ensp; Deep Learning and Machine Learning  
   
 My previous research interest includes:  
 &bullet; Traditional Computer Vision (image processing, target tracking, etc.)  
@@ -21,17 +21,17 @@ My previous research interest includes:
 ---  
 
 ## **Education Background**
-&bullet; *2016.09 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
+**·**&ensp; *2016.09 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun, 2020*    
 
-&bullet; *2015.09 ~ 2016.09* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
+**·**&ensp; *2015.09 ~ 2016.09* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
 &ensp;&ensp;&ensp;&ensp;For personal interest, I changed my major to Automation through professional interview  
 
 ---  
 
 ## **Work Experience**
-&bullet; *2019.10 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
+**·**&ensp; *2019.10 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
 &ensp;&ensp;&ensp;&ensp; **Visiting Student**, Center for Multimedia Integrated Technologies (CMIT)  
 &ensp;&ensp;&ensp;&ensp; **Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
