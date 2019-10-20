@@ -34,4 +34,4 @@ My previous research interest includes:
 ## **Work Experience**
 ⚪*2019.10 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
 &ensp;&ensp;&ensp;&ensp; **Visiting Student**, Center for Multimedia Integrated Technologies (CMIT)  
-&ensp;&ensp;&ensp;&ensp; **Supervisor:** *[Yu Qiao]*(http://mmlab.siat.ac.cn/yuqiao/)  
+&ensp;&ensp;&ensp;&ensp; **Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
