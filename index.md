@@ -49,4 +49,4 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ## Honors And Awards
 - **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***)  
-- **National Scholarship** (bonus: ***8,000 RMB***)  
+- **China National Scholarship** (bonus: ***8,000 RMB***)  
