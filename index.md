@@ -1,16 +1,10 @@
-# **Brief Introduction**
-I am currently a **prospective M.S. student** (***supervised by Prof. Yu Qiao***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese of Sciences (CAS) Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
-
+# Mouxiao HUANG
+E-mail: mx.huang@siat.ac.cn  
+       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn                                 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;neohuang469@gmail.com   
 ---  
 
-## **Basic Info**
-Name: **Mouxiao Huang（黄谋潇）**  
-Gender: Male
-Born: Feb 14, 1997  
-Address: Shenzhen, China  
-E-mail: mx.huang@siat.ac.cn  
-       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
-       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;neohuang469@gmail.com  
+##**Brief Introduction**
+I am currently a **prospective M.S. student** (***supervised by Prof. Yu Qiao***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese of Sciences (CAS) Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
 
 ---  
 
