@@ -1,4 +1,4 @@
-# **Mouxiao HUANG** ## 黄谋潇
+# **Mouxiao HUANG**（黄谋潇）  
 E-mail: mx.huang@siat.ac.cn  
        &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
        &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;neohuang469@gmail.com  
@@ -34,4 +34,4 @@ My previous research interest includes:
 ## **Work Experience**
 ⚪*2019.10 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
 &ensp;&ensp;&ensp;&ensp; **Visiting Student**, Center for Multimedia Integrated Technologies (CMIT)  
-&ensp;&ensp;&ensp;&ensp; **Supervisor:** [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)  
+&ensp;&ensp;&ensp;&ensp; **Supervisor:** *[Yu Qiao]*(http://mmlab.siat.ac.cn/yuqiao/)  
