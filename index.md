@@ -21,18 +21,18 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Education Background**
-- *2016.09 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
+- *Sep. 2016 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun, 2020*    
 
-- *2015.09 ~ 2016.09* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
+- *Sep. 2015 ~ Jun. 2016* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
 &ensp;&ensp;&ensp;&ensp;For personal interest, I changed my major to Automation through professional interview  
 
 ---  
 
 ## **Work Experience**
-- *2019.10 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
+- *Oct. 2019 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
 &ensp;&ensp;&ensp;&ensp;**Visiting Student**, Center for Multimedia Integrated Technologies (CMIT)  
 &ensp;&ensp;&ensp;&ensp;**Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
 
@@ -47,6 +47,8 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ---  
 
-## Honors And Awards
-- **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***)  
-- **China National Scholarship** (bonus: ***8,000 RMB***)  
+## **Honors & Awards**
+- **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***) in *Oct. 2019*  
+- **China National Scholarship** in *Oct. 2018*  
+- **Innovation Foundation Scholarship for College Students** (bonus: ***5,000 RMB***) in *Dec. 2018*  
+- **National Encouragement Scholarship** in *Oct. 2017*
