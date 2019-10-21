@@ -43,8 +43,11 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
   
 - Previous Research Projects:  
 > - National Undergraduate Innovative and Entrepreneurial Training Program (***project principal***, funds: *10,000 RMB*)  
+>> Research on outdoor visible light communication (OVLC) and target tracking  
 > - "Climbing Program" Special Fund of Guangdong Province (***key project***, funds: ***60,000 RMB***)  
-> - "Climbing Program" Special Fund of Guangdong Province (***general project***, funds: *20,000 RMB*)
+>> Research on visible light positioning (VLP)  
+> - "Climbing Program" Special Fund of Guangdong Province (***general project***, funds: *20,000 RMB*)  
+>> Research on LED-ID detection and recognition; machine learning  
 
 ---  
 
@@ -58,7 +61,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
-- Nmination Award for "**ten top three good student pacesetter**" (***the highest honor award*** of South China University of Technology) in *Oct. 2019*  
+- **Nomination Award for "Top Ten Pacemakers to Merit Student"** (***the highest honor award*** of South China University of Technology) in *Oct. 2019*  
 - **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***) in *Oct. 2019*  
 - **China National Scholarship** (bonus: ***8,000 RMB***) in *Oct. 2018*  
 - Innovation Foundation Scholarship for College Students (bonus: ***5,000 RMB***) in *Dec. 2018*  
