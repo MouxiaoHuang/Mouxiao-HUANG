@@ -44,7 +44,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 - Previous Research Projects:  
 > - National Undergraduate Innovative and Entrepreneurial Training Program (***project principal***, funds: *10,000 RMB*)  
 
-> - "Climbing Program" Special Fund of Guangdong Province (***key project***, funds: ***60,000 RMB***)  
+> - \"Climbing Program" Special Fund of Guangdong Province (***key project***, funds: ***60,000 RMB***)  
 
 ---  
 
