@@ -1,7 +1,8 @@
 # **Mouxiao HUANG**（黄谋潇）  
-E-mail: mx.huang@siat.ac.cn  
-       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
-       &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;neohuang469@gmail.com  
+- *E-mail:*  
+mx.huang@siat.ac.cn  
+auneohuang@mail.scut.edu.cn  
+neohuang469@gmail.com  
 
 ---  
 
@@ -17,13 +18,14 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 - My previous research interest includes:  
 > - Traditional Computer Vision (image processing, target tracking, etc.)  
 > - Visible Light Communication and its applications  
+> - Embedded System  
 
 ---  
 
 ## **Education Background**
 - *Sep. 2016 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
-&ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun, 2020*    
+&ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2020*    
 
 - *Sep. 2015 ~ Jun. 2016* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
@@ -43,9 +45,9 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
   
 - Previous Research Projects:  
 > - National Undergraduate Innovative and Entrepreneurial Training Program (***project principal***, funds: *10,000 RMB*)  
->> Research on outdoor visible light communication (OVLC) and target tracking  
+>> Research on outdoor visible light communication (OVLC); target tracking; image processing  
 > - "Climbing Program" Special Fund of Guangdong Province (***key project***, funds: ***60,000 RMB***)  
->> Research on visible light positioning (VLP)  
+>> Research on visible light positioning (VLP); object detection and tracking; ROS robot  
 > - "Climbing Program" Special Fund of Guangdong Province (***general project***, funds: *20,000 RMB*)  
 >> Research on LED-ID detection and recognition; machine learning  
 
@@ -61,8 +63,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
-- **Nomination Award for "Top Ten Pacemakers to Merit Student"** (***the highest honor award*** of South China University of Technology) in *Oct. 2019*  
-- **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***) in *Oct. 2019*  
-- **China National Scholarship** (bonus: ***8,000 RMB***) in *Oct. 2018*  
-- Innovation Foundation Scholarship for College Students (bonus: ***5,000 RMB***) in *Dec. 2018*  
-- National Encouragement Scholarship (bonus: ***5,000 RMB***) in *Oct. 2017*  
+- **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019*  
+- **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
+- Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
+- National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
