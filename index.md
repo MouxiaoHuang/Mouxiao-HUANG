@@ -1,8 +1,8 @@
 # **Mouxiao HUANG**（黄谋潇）  
 - *E-mail:*  
-mx.huang@siat.ac.cn  
-auneohuang@mail.scut.edu.cn  
-neohuang469@gmail.com  
+> mx.huang@siat.ac.cn  
+> auneohuang@mail.scut.edu.cn  
+> neohuang469@gmail.com  
 
 ---  
 
