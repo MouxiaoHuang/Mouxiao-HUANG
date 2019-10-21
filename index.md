@@ -39,11 +39,11 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Publications**
-- [**Huang M**, Guan W, Fan Z, et al. Improved target signal source tracking and extraction method based on outdoor visible light communication using a cam-shift algorithm and kalman filter\[J\]. Sensors, 2018, 18(12): 4173.](https://www.mdpi.com/1424-8220/18/12/4173/htm)  
+- [**Huang M**, Guan W, Fan Z, et al. Improved target signal source tracking and extraction method based on outdoor visible light communication using a cam-shift algorithm and kalman filter\[J\]. *Sensors*, 2018, 18(12): 4173.](https://www.mdpi.com/1424-8220/18/12/4173/htm)  
 
-- [Guan W ,Chen X ,**Huang M**, et al. High-Speed Robust Dynamic Positioning and Tracking Method Based on Visual Visible Light Communication Using Optical Flow Detection and Bayesian Forecast. IEEE Photonics Journal, PP(99):1-1.](https://ieeexplore.ieee.org/abstract/document/8368189/)  
+- [Guan W ,Chen X ,**Huang M**, et al. High-Speed Robust Dynamic Positioning and Tracking Method Based on Visual Visible Light Communication Using Optical Flow Detection and Bayesian Forecast. *IEEE Photonics Journal*, PP(99):1-1.](https://ieeexplore.ieee.org/abstract/document/8368189/)  
 
-- [Wu, Y., Guan, W., Zhang, X., **Huang, M.**, et al. (2019). Visible light positioning system based on CMOS image sensor using particle filter tracking and detecting algorithm. emphOptics Communications.](https://www.sciencedirect.com/science/article/pii/S0030401819302676)  
+- [Wu, Y., Guan, W., Zhang, X., **Huang, M.**, et al. (2019). Visible light positioning system based on CMOS image sensor using particle filter tracking and detecting algorithm. *Optics Communications*.](https://www.sciencedirect.com/science/article/pii/S0030401819302676)  
 
 ---  
 
