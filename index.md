@@ -11,12 +11,12 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ## **Research Interest**
 - **My current research interest includes:**  
-**·**&ensp; Computer Vision (3D Reconstruction)  
-**·**&ensp; Deep Learning and Machine Learning  
+> - Computer Vision (3D Reconstruction)  
+> - Deep Learning and Machine Learning  
   
 - My previous research interest includes:  
-**·**&ensp; Traditional Computer Vision (image processing, target tracking, etc.)  
-**·**&ensp; Visible Light Communication and its applications  
+> - Traditional Computer Vision (image processing, target tracking, etc.)  
+> - Visible Light Communication and its applications  
 
 ---  
 
@@ -38,6 +38,16 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ---  
 
+## **Research Projects**
+- Current Research Projects:  
+  
+- Previous Research Projects:  
+> - National Undergraduate Innovative and Entrepreneurial Training Program (***project principal***, funds: *10,000 RMB*)  
+
+> - "Climbing Program" Special Fund of Guangdong Province (***key project***, funds: ***60,000 RMB***)  
+
+---  
+
 ## **Publications**
 - [**Huang M**, Guan W, Fan Z, et al. Improved target signal source tracking and extraction method based on outdoor visible light communication using a cam-shift algorithm and kalman filter\[J\]. *Sensors*, 2018, 18(12): 4173.](https://www.mdpi.com/1424-8220/18/12/4173/htm)  
 
@@ -49,6 +59,6 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ## **Honors & Awards**
 - **Guangzhou Automobile Group (GAC) Scholarship** (bonus: ***20,000 RMB***) in *Oct. 2019*  
-- **China National Scholarship** in *Oct. 2018*  
+- **China National Scholarship** (bonus: ***8,000 RMB***) in *Oct. 2018*  
 - **Innovation Foundation Scholarship for College Students** (bonus: ***5,000 RMB***) in *Dec. 2018*  
-- **National Encouragement Scholarship** in *Oct. 2017*
+- **National Encouragement Scholarship** (bonus: ***5,000 RMB***) in *Oct. 2017*
