@@ -66,3 +66,4 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 - **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
 - Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
 - National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
+<link rel="shortcut icon" href="1.png" type="image/x-icon"/>  
