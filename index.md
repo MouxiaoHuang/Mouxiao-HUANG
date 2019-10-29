@@ -1,7 +1,7 @@
 <img src="/1.jpg" width = "17.5%" height="17.5%" align='right'/>
 
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）</font>  
-E-mail: mx.huang@siat.ac.cn  
+<img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; auneohuang@mail.scut.edu.cn  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; neohuang469@gmail.com  
 
@@ -54,7 +54,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ---  
 
-## **Publications**[<img src="/googlescholar.png">](https://scholar.google.com.hk/citations?user=w-we_agAAAAJ&hl=zh-CN&oi=ao)
+## **Publications**  [<img src="/googlescholar.png" width="20px" height="20px">](https://scholar.google.com.hk/citations?user=w-we_agAAAAJ&hl=zh-CN&oi=ao)
 - [**Huang M**, Guan W, Fan Z, et al. Improved target signal source tracking and extraction method based on outdoor visible light communication using a cam-shift algorithm and kalman filter\[J\]. *Sensors*, 2018, 18(12): 4173.](https://www.mdpi.com/1424-8220/18/12/4173/htm)  
 
 - [Guan W ,Chen X ,**Huang M**, et al. High-Speed Robust Dynamic Positioning and Tracking Method Based on Visual Visible Light Communication Using Optical Flow Detection and Bayesian Forecast. *IEEE Photonics Journal*, PP(99):1-1.](https://ieeexplore.ieee.org/abstract/document/8368189/)  
