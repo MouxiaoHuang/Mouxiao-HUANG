@@ -2,8 +2,8 @@
 
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）</font>  
 <img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
-&ensp;&ensp;&ensp; auneohuang@mail.scut.edu.cn  
-&ensp;&ensp;&ensp; neohuang469@gmail.com  
+&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
+&ensp;&ensp;&ensp;neohuang469@gmail.com  
 
 ---  
 
