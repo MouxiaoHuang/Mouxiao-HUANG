@@ -61,6 +61,8 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 - [Wu, Y, Guan, W, Zhang, X, **Huang, M**, et al.(2019). Visible light positioning system based on CMOS image sensor using particle filter tracking and detecting algorithm. *Optics Communications*.](https://www.sciencedirect.com/science/article/pii/S0030401819302676)  
 
+- [**Patents**](http://www.soopat.com/Home/Result?SearchWord=%E9%BB%84%E8%B0%8B%E6%BD%87&FMZL=Y&SYXX=Y&WGZL=Y&FMSQ=Y)  
+
 ---  
 
 ## **Honors & Awards**
