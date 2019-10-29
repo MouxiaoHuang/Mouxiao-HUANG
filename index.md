@@ -1,4 +1,4 @@
-<img src="/1.jpg" width = "15%" height="215%" align='right'/>
+<img src="/1.jpg" width = "16%" height="16%" align='right'/>
 
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）</font>  
 E-mail: mx.huang@siat.ac.cn  
