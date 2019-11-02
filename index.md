@@ -7,7 +7,7 @@
 
 ---  
 
-I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS) Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
+I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Center for Multimedia Integrated Technologies (CMIT)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
 
 ---  
 
@@ -24,19 +24,19 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Education Background**
-- *Sep. 2016 ~ present* &ensp;&ensp;&ensp;&ensp; **South China University of Technology**  
+- *Sep. 2016 ~ present* &ensp;&ensp;&ensp;&ensp; **SCUT**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2020*    
 
-- *Sep. 2015 ~ Jun. 2016* &ensp;&ensp;&ensp;&ensp;  **South China University of Technology**  
+- *Sep. 2015 ~ Jun. 2016* &ensp;&ensp;&ensp;&ensp;  **SCUT**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
 &ensp;&ensp;&ensp;&ensp;For personal interest, I changed my major to Automation through professional interview  
 
 ---  
 
 ## **Work Experience**
-- *Oct. 2019 ~ present* &ensp;&ensp;&ensp;&ensp; **Shenzhen Institutes of Advanced Technology (SIAT, CAS)**  
-&ensp;&ensp;&ensp;&ensp;**Visiting Student**, Center for Multimedia Integrated Technologies (CMIT)  
+- *Oct. 2019 ~ present* &ensp;&ensp;&ensp;&ensp; **SIAT, CAS**  
+&ensp;&ensp;&ensp;&ensp;**Visiting Student**, CMIT  
 &ensp;&ensp;&ensp;&ensp;**Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
 
 ---  
@@ -66,7 +66,8 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
+- **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (16 out of about 13,000)
 - **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019*  
 - **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
 - Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
-- National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
+- China National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
