@@ -1,6 +1,6 @@
 <img src="/photo.jpg" width = "17.5%" height="17.5%" align='right'/>
 
-# **Mouxiao HUANG**<font face="楷体">（黄谋潇）</font>  
+# **Mouxiao HUANG**<font face="楷体">（黄谋潇）</font> [<img src="/giticon.png" width="24px" height="24px">](https://github.com/MouxiaoHuang)  
 <img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
 &ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
 &ensp;&ensp;&ensp;neohuang469@gmail.com  
