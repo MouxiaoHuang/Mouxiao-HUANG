@@ -1,5 +1,5 @@
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）  
-[<img src="/giticon.png" height="24px" width="24px">](https://github.com/MouxiaoHuang) [<img src="lingyingicon.png" height="18px" width="18px">](https://www.linkedin.com/in/%E8%B0%8B%E6%BD%87-%E9%BB%84-bab9a4192/) [<img src="/googlescholar2.png" width="26px" height="26px">](https://scholar.google.com.hk/citations?user=w-we_agAAAAJ&hl=zh-CN&oi=ao)  
+[<img src="/giticon.png" height="24px" width="24px">](https://github.com/MouxiaoHuang)  
 <img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
 &ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
 &ensp;&ensp;&ensp;neohuang469@gmail.com  
