@@ -1,5 +1,3 @@
-[comment]: <> (<img src="/photo.jpg" width = "17.5%" height="17.5%" align='right'/>)
-
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）  
 [<img src="/giticon.png" height="24px" width="24px">](https://github.com/MouxiaoHuang)  
 <img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
