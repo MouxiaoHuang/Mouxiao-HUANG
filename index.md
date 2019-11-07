@@ -1,6 +1,7 @@
 <img src="/photo.jpg" width = "17.5%" height="17.5%" align='right'/>
 
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）  
+[<img src="/giticon.png" height="24px" width="24px">](https://github.com/MouxiaoHuang)  
 <img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
 &ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
 &ensp;&ensp;&ensp;neohuang469@gmail.com  
@@ -66,8 +67,8 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
-- **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (16 out of about 13,000)
-- **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019*  
+- **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (***16 out of about 13,000***, ***the highest award(nomination)*** of SCUT)
+- **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019* (***the highest scholarship*** of SCUT)  
 - **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
 - Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
 - China National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
