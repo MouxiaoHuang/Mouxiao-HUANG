@@ -65,7 +65,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
-- **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (***16 out of about 13,000***, ***the highest award(nomination)*** of SCUT)
+- **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (***16 out of about 13,000***, ***the highest award*** of SCUT)
 - **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019* (***the highest scholarship*** of SCUT)  
 - **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
 - Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
