@@ -14,6 +14,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 - **My current research interest includes:**  
 > - Computer Vision (3D Reconstruction)  
 > - Deep Learning and Machine Learning  
+> - Application of DL in Synthetic Biology
   
 - My previous research interest includes:  
 > - Traditional Computer Vision (image processing, target tracking, etc.)  
@@ -65,8 +66,9 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
+- **He Jingtang Science and Technology Innovation Award** *(bonus: **¥ 20,000**)* in *Nov. 2019* (***the highest scholarship*** of SCUT)  
 - **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (***16 out of about 13,000***, ***the highest award*** of SCUT)
-- **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **20,000 RMB**)* in *Oct. 2019* (***the highest scholarship*** of SCUT)  
-- **China National Scholarship** *(bonus: **8,000 RMB**)* in *Oct. 2018*  
-- Innovation Foundation Scholarship for College Students *(bonus: **5,000 RMB**)* in *Dec. 2018*  
-- China National Encouragement Scholarship *(bonus: **5,000 RMB**)* in *Oct. 2017*  
+- **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **¥ 20,000**)* in *Oct. 2019* (***the highest scholarship*** of SCUT)  
+- **China National Scholarship** *(bonus: **¥ 8,000**)* in *Oct. 2018*  
+- Innovation Foundation Scholarship for College Students *(bonus: **¥ 5,000**)* in *Dec. 2018*  
+- China National Encouragement Scholarship *(bonus: **¥ 5,000**)* in *Oct. 2017*  
