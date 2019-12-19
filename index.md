@@ -66,7 +66,7 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 ---  
 
 ## **Honors & Awards**
-- **He Jingtang Science and Technology Innovation Award** *(bonus: **¥ 20,000**)* in *Nov. 2019* (***the highest scholarship*** of SCUT)  
+- **He Jingtang Science and Technology Innovation Award** *(bonus: **¥ 20,000**)* in *Nov. 2019* (***5 out of about 13,000, the highest scholarship*** of SCUT)  
 - **Nomination Award of Top Ten Pacemakers to Merit Student** of SCUT in *Nov. 2019* (***16 out of about 13,000***, ***the highest award*** of SCUT)
 - **Guangzhou Automobile Group (GAC) Scholarship** *(bonus: **¥ 20,000**)* in *Oct. 2019* (***the highest scholarship*** of SCUT)  
 - **China National Scholarship** *(bonus: **¥ 8,000**)* in *Oct. 2018*  
