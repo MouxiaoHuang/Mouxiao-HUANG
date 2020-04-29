@@ -12,9 +12,8 @@ I am currently a **prospective M.S. student** (***supervised by [Prof. Yu Qiao](
 
 ## **Research Interest**
 - **My current research interest includes:**  
-> - Computer Vision (3D Reconstruction)  
+> - Computer Vision (3D Face Reconstruction)  
 > - Deep Learning and Machine Learning  
-> - Application of DL in Synthetic Biology
   
 - My previous research interest includes:  
 > - Traditional Computer Vision (image processing, target tracking, etc.)  
