@@ -25,7 +25,7 @@ I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab
 ---  
 
 ## **Education Background**
-- *Sep. 2016 ~ present* &ensp;&ensp;&ensp;&ensp; **SCUT**  
+- *Sep. 2016 ~ Jun. 2020* &ensp;&ensp;&ensp;&ensp; **SCUT**  
 &ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2020*    
 
