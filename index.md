@@ -37,7 +37,7 @@ I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab
 
 ## **Work Experience**
 - *Oct. 2019 ~ Aug. 2020* &ensp;&ensp;&ensp;&ensp; **SIAT, CAS**  
-&ensp;&ensp;&ensp;&ensp;**Visiting Student**, CMIT ([MMLAB](http://mmlab.siat.ac.cn/)  
+&ensp;&ensp;&ensp;&ensp;**Visiting Student**, CMIT ([MMLAB](http://mmlab.siat.ac.cn/))  
 &ensp;&ensp;&ensp;&ensp;**Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
 
 ---  
