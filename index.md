@@ -6,7 +6,7 @@
 
 ---  
 
-I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), [Center for Multimedia Integrated Technologies (CMIT)](http://mmlab.siat.ac.cn/)*. And I am expected to obtain my *B.Eng. degree* from *South China University of Technology (SCUT)* by 2020.  
+I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)***) in *Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Center for Multimedia Integrated Technologies (CMIT)*. And I obtained my *B.Eng. degree* from *South China University of Technology (SCUT)* in Jun. 2020.  
   
 - *Please click* ***[Multimedia Laboratory (MMLAB)](http://mmlab.siat.ac.cn/)*** *to see our team's homepage*.  
 
