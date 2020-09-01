@@ -25,7 +25,7 @@ I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab
 
 ## **Education Background**
 - *Sep. 2020 ~ present* &ensp;&ensp;&ensp;&ensp; **UCAS**  
-&ensp;&ensp;&ensp;&ensp;**M.S. in Computer Science and Technology** &ensp;&ensp;&ensp;&ensp;  *MMLAB of SIAT*  
+&ensp;&ensp;&ensp;&ensp;**M.S. in Computer Science and Technology** &ensp;&ensp;&ensp;&ensp;  *[MMLAB](http://mmlab.siat.ac.cn/) of SIAT*  
 &ensp;&ensp;&ensp;&ensp;**Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
 &ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2023*    
 
