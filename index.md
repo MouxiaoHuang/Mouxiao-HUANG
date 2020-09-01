@@ -1,8 +1,7 @@
 # **Mouxiao HUANG**<font face="楷体">（黄谋潇）  
 [<img src="/giticon.png" height="24px" width="24px">](https://github.com/MouxiaoHuang)  
-<img src="/email2.png" height="24px" width="24px"> mx.huang@siat.ac.cn  
-&ensp;&ensp;&ensp;auneohuang@mail.scut.edu.cn  
-&ensp;&ensp;&ensp;neohuang469@gmail.com  
+<img src="/email2.png" height="24px" width="24px"> neohuang@gmail.com  
+&ensp;&ensp;&ensp;mx.huang@siat.ac.cn  
 
 ---  
 
@@ -25,9 +24,13 @@ I am currently a **M.S. student** (***supervised by [Prof. Yu Qiao](http://mmlab
 ---  
 
 ## **Education Background**
+- *Sep. 2020 ~ present* &ensp;&ensp;&ensp;&ensp; **UCAS**  
+&ensp;&ensp;&ensp;&ensp;**M.S. in Computer Science and Technology** &ensp;&ensp;&ensp;&ensp;  *MMLAB of SIAT*  
+&ensp;&ensp;&ensp;&ensp;**Supervisor:** [*Yu Qiao*](http://mmlab.siat.ac.cn/yuqiao/)  
+&ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2023*    
+
 - *Sep. 2016 ~ Jun. 2020* &ensp;&ensp;&ensp;&ensp; **SCUT**  
-&ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*  
-&ensp;&ensp;&ensp;&ensp;Expected graduation: *Jun. 2020*    
+&ensp;&ensp;&ensp;&ensp;**B.Eng. in Automation** &ensp;&ensp;&ensp;&ensp;  *School of Automation Science and Engineering*    
 
 - *Sep. 2015 ~ Jun. 2016* &ensp;&ensp;&ensp;&ensp;  **SCUT**  
 &ensp;&ensp;&ensp;&ensp;**B.S. in Medical Image** &ensp;&ensp;&ensp;&ensp;  *School of Medicine*  
